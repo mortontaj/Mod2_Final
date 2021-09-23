@@ -1,4 +1,4 @@
-# mod2 MARKETTAJ (REACT Improved)
+# MARKETTAJ (REACT Improved)
 
 This site is for someone who is curious about curions about quantitative data on equities and currency rates.
 The home page provides portfolio simulations by math useReducer functions and Redux hooks.
